@@ -11,6 +11,12 @@ An application like Microsoft Paint and it can change color, change brush size a
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"  title="MatPlotLib" alt="MatPlotLib" width="40" height="40"/>&nbsp;
 </div>
 
+## Controls
+
+  - `r` button reset the screen and make it white screen
+  - `z` button delete the pervious draw when press it long works just like r button
+  - 'esc' button exit from application and saves your last picture
+
 ## Result
 
 <img src="/Pictures/Picture.jpg"/>
