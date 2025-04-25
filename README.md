@@ -32,13 +32,13 @@ After placing the code on the jupyter notebook just run step 1 and 2 draw your p
 ## APP Preview
 
 <div display=flex align=center>
-  <img src="/Pictures/APP.PNG" width="600px"/>
+  <img src="/Pictures/APP.PNG" width="400px"/>
 </div>
 
 ## Result
 
 <div display=flex align=center>
-  <img src="/Pictures/Picture.jpg"/>
+  <img src="/Pictures/Picture.jpg" width="400px"/>
 </div>
 
 ## License
