@@ -1,6 +1,12 @@
 # Paint
 An application like Microsoft Paint and it can change color, change brush size and back to pervious step with z button and reset whole screen with r button.
 
+## APP Preview
+
+<div display=flex align=center>
+  <img src="/Pictures/APP.PNG" width="400px"/>
+</div>
+
 ## Tech :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -10,6 +16,7 @@ An application like Microsoft Paint and it can change color, change brush size a
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"  title="MatPlotLib" alt="MatPlotLib" width="40" height="40"/>&nbsp;
 </div>
+
 
 - Python : Popular language for implementing Neural Network
 - Jupyter Notebook : Best tool for running python cell by cell
@@ -28,12 +35,6 @@ After placing the code on the jupyter notebook just run step 1 and 2 draw your p
   - `r` button reset the screen and make it white screen
   - `z` button delete the pervious draw when press it long works just like r button
   - `esc` button exit from application and saves your last picture
-
-## APP Preview
-
-<div display=flex align=center>
-  <img src="/Pictures/APP.PNG" width="400px"/>
-</div>
 
 ## Result
 
