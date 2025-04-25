@@ -17,7 +17,6 @@ An application like Microsoft Paint and it can change color, change brush size a
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"  title="MatPlotLib" alt="MatPlotLib" width="40" height="40"/>&nbsp;
 </div>
 
-
 - Python : Popular language for implementing Neural Network
 - Jupyter Notebook : Best tool for running python cell by cell
 - OpenCV : Best Library for working with images
