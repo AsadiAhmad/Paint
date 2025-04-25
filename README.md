@@ -11,19 +11,35 @@ An application like Microsoft Paint and it can change color, change brush size a
   <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg"  title="MatPlotLib" alt="MatPlotLib" width="40" height="40"/>&nbsp;
 </div>
 
+- Python : Popular language for implementing Neural Network
+- Jupyter Notebook : Best tool for running python cell by cell
+- OpenCV : Best Library for working with images
+- Numpy : Best Library for working with arrays in python
+- MatPlotLib : Library for showing the charts in python
+
+## How to Use
+
+This app is not running on the Google colab because it's a application that get realtime pictures from server so google colab can't respond too fast and it crashes too fast so you need have a jupyter notebook on your PC i suggest you to install jyputer extensions from VSCode.
+
+After placing the code on the jupyter notebook just run step 1 and 2 draw your picture and run step 3 for saving your picture.
+
 ## Controls
 
-  - ```r``` button reset the screen and make it white screen
+  - `r` button reset the screen and make it white screen
   - `z` button delete the pervious draw when press it long works just like r button
-  - 'esc' button exit from application and saves your last picture
+  - `esc` button exit from application and saves your last picture
 
 ## APP Preview
 
-<img src="/Pictures/APP.PNG"/>
+<div display=flex align=center>
+  <img src="/Pictures/APP.PNG" width="600px"/>
+</div>
 
 ## Result
 
-<img src="/Pictures/Picture.jpg"/>
+<div display=flex align=center>
+  <img src="/Pictures/Picture.jpg"/>
+</div>
 
 ## License
 
