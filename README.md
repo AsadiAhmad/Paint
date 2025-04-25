@@ -13,9 +13,13 @@ An application like Microsoft Paint and it can change color, change brush size a
 
 ## Controls
 
-  - `r` button reset the screen and make it white screen
+  - ```r``` button reset the screen and make it white screen
   - `z` button delete the pervious draw when press it long works just like r button
   - 'esc' button exit from application and saves your last picture
+
+## APP Preview
+
+<img src="/Pictures/APP.PNG"/>
 
 ## Result
 
