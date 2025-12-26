@@ -1,6 +1,10 @@
 # Paint
 An application like Microsoft Paint and it can change color, change brush size and back to pervious step with z button and reset whole screen with r button.
 
+<div display=flex align=center>
+  <img src="/Gif/Paint.gif" width="600px"/>
+</div>
+
 ## APP Preview
 
 <div display=flex align=center>
